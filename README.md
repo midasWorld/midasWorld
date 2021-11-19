@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 🌱 I’m interested in solving algorithm
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=midas)](https://solved.ac/midas)
 
 🏆 My Stats: 🏆
