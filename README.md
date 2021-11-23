@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=midas)](https://solved.ac/midas)
 
 🏆 My Stats: 🏆
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=midasWorld)](https://github.com/midasWorld/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=midasWorld&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
