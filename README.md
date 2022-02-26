@@ -37,10 +37,24 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 </p>
 
+<h4 align="center">BLOG</h4>
+<p align="center">
+  <a href="https://velog.io/@midas">
+    <img 
+        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dding_ji"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+</p>
+
 <h4 align="center">🏆 My Stats: 🏆</h4>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=midasWorld&show_icons=true&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midasWorld&layout=compact&theme=material-palenight&langs_count=8" />
   </a>
 </p>
