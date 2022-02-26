@@ -1,8 +1,8 @@
-<br/>
+[//]: # (<br/>)
 
-<h3 align="center" style="color:skyblue">My Skills</h3>
+[//]: # (<h3 align="center" style="color:skyblue">My Skills</h3>)
 
-<br/>
+[//]: # (<br/>)
 
 <!--
 **midasWorld/midasWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
