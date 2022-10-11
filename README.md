@@ -44,6 +44,11 @@ Here are some ideas to get you started:
 
 <h4>BLOG</h4>
 <p>
+  <a href="https://midasworld.github.io/">
+    <img 
+        src="http://img.shields.io/badge/-Github.io-181717?style=flat&logo=Github&link=https://velog.io/@dding_ji"
+        />
+  </a>
   <a href="https://velog.io/@midas">
     <img 
         src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dding_ji"
